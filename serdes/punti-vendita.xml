@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="13.0.1" class="java.beans.XMLDecoder">
+ <object class="PuntoVendita">
+  <void property="cap">
+   <int>37142</int>
+  </void>
+  <void property="codProvincia">
+   <string>VR</string>
+  </void>
+  <void property="comune">
+   <string>VERONA</string>
+  </void>
+  <void property="denominazione">
+   <string> BERTAGNOLI ISIDORO MOTOCICLIDORO</string>
+  </void>
+  <void property="email">
+   <string>MOTOCICLIDORO@GMAIL.COM</string>
+  </void>
+  <void property="idEsercente">
+   <int>1567</int>
+  </void>
+  <void property="idPuntoVendita">
+   <int>4813</int>
+  </void>
+  <void property="indirizzo">
+   <string>VIA VALPANTENA 18</string>
+  </void>
+  <void property="telefonoPrinciapale">
+   <string>0458700094</string>
+  </void>
+  <void property="urlSito">
+   <string>MOTOCICLIDORO.IT</string>
+  </void>
+ </object>
+ <object class="PuntoVendita">
+  <void property="cap">
+   <int>63066</int>
+  </void>
+  <void property="codProvincia">
+   <string>AP</string>
+  </void>
+  <void property="comune">
+   <string>GROTTAMMARE</string>
+  </void>
+  <void property="denominazione">
+   <string> BRICO IO GROTTAMMARE</string>
+  </void>
+  <void property="email">
+   <string>GROTTAMMARE@BRICOIO.IT</string>
+  </void>
+  <void property="idEsercente">
+   <int>2439</int>
+  </void>
+  <void property="idPuntoVendita">
+   <int>7047</int>
+  </void>
+  <void property="indirizzo">
+   <string>VIA GIOVANNI PASCOLI</string>
+  </void>
+  <void property="latitudine">
+   <float>42.96367</float>
+  </void>
+  <void property="longitudine">
+   <float>13.87499</float>
+  </void>
+  <void property="telefonoPrinciapale">
+   <string>0735584131</string>
+  </void>
+  <void property="urlSito">
+   <string>WWW.BRICOIO.IT</string>
+  </void>
+ </object>
+ <object class="PuntoVendita">
+  <void property="cap">
+   <int>10151</int>
+  </void>
+  <void property="codProvincia">
+   <string>TO</string>
+  </void>
+  <void property="comune">
+   <string>TORINO</string>
+  </void>
+  <void property="denominazione">
+   <string> CONAD - NORDOVESTINSIEME </string>
+  </void>
+  <void property="idEsercente">
+   <int>1391</int>
+  </void>
+  <void property="idPuntoVendita">
+   <int>4810</int>
+  </void>
+  <void property="indirizzo">
+   <string>STRADA COMUNALE DI ALTESSANO 129 </string>
+  </void>
+  <void property="telefonoPrinciapale">
+   <string>0114200301</string>
+  </void>
+ </object>
+ <object class="PuntoVendita">
+  <void property="cap">
+   <int>7100</int>
+  </void>
+  <void property="codProvincia">
+   <string>SS</string>
+  </void>
+  <void property="comune">
+   <string>SASSARI</string>
+  </void>
+  <void property="denominazione">
+   <string> CONAD - NORDOVESTINSIEME </string>
+  </void>
+  <void property="email">
+   <string>095725_UFF@CONADNORDOVEST.IT</string>
+  </void>
+  <void property="idEsercente">
+   <int>1391</int>
+  </void>
+  <void property="idPuntoVendita">
+   <int>4809</int>
+  </void>
+  <void property="indirizzo">
+   <string>PORTO TORRES SNC</string>
+  </void>
+ </object>
+ <object class="PuntoVendita">
+  <void property="cap">
+   <int>7026</int>
+  </void>
+  <void property="codProvincia">
+   <string>SS</string>
+  </void>
+  <void property="comune">
+   <string>OLBIA</string>
+  </void>
+  <void property="denominazione">
+   <string> CONAD - NORDOVESTINSIEME </string>
+  </void>
+  <void property="email">
+   <string>094686_UFF@CONADNORDOVEST.IT</string>
+  </void>
+  <void property="idEsercente">
+   <int>1391</int>
+  </void>
+  <void property="idPuntoVendita">
+   <int>4806</int>
+  </void>
+  <void property="indirizzo">
+   <string>SA MARINEDDA SNC</string>
+  </void>
+  <void property="telefonoPrinciapale">
+   <string>0789646033</string>
+  </void>
+ </object>
+ <object class="PuntoVendita">
+  <void property="cap">
+   <int>10098</int>
+  </void>
+  <void property="codProvincia">
+   <string>TO</string>
+  </void>
+  <void property="comune">
+   <string>RIVOLI</string>
+  </void>
+  <void property="denominazione">
+   <string> CONAD - NORDOVESTINSIEME </string>
+  </void>
+  <void property="email">
+   <string>094544_UFF@CONADNORDOVEST.IT</string>
+  </void>
+  <void property="idEsercente">
+   <int>1391</int>
+  </void>
+  <void property="idPuntoVendita">
+   <int>4811</int>
+  </void>
+  <void property="indirizzo">
+   <string>CORSO SUSA 305/307</string>
+  </void>
+  <void property="telefonoPrinciapale">
+   <string>0119502870</string>
+  </void>
+ </object>
+ <object class="PuntoVendita">
+  <void property="cap">
+   <int>10078</int>
+  </void>
+  <void property="codProvincia">
+   <string>TO</string>
+  </void>
+  <void property="comune">
+   <string>VENARIA REALE</string>
+  </void>
+  <void property="denominazione">
+   <string> CONAD - NORDOVESTINSIEME </string>
+  </void>
+  <void property="email">
+   <string>095918_UFF@CONADNORDOVEST.IT</string>
+  </void>
+  <void property="idEsercente">
+   <int>1391</int>
+  </void>
+  <void property="idPuntoVendita">
+   <int>4812</int>
+  </void>
+  <void property="indirizzo">
+   <string>CORSO GIUSEPPE GARIBALDI</string>
+  </void>
+  <void property="latitudine">
+   <float>45.11376</float>
+  </void>
+  <void property="longitudine">
+   <float>7.64449</float>
+  </void>
+ </object>
+ <object class="PuntoVendita">
+  <void property="cap">
+   <int>159</int>
+  </void>
+  <void property="codProvincia">
+   <string>RM</string>
+  </void>
+  <void property="comune">
+   <string>ROMA</string>
+  </void>
+  <void property="denominazione">
+   <string> E.T. CAPITAL SRL</string>
+  </void>
+  <void property="email">
+   <string>AMMINISTRAZIONE@ETCAPITAL.IT</string>
+  </void>
+  <void property="idEsercente">
+   <int>719</int>
+  </void>
+  <void property="idPuntoVendita">
+   <int>2485</int>
+  </void>
+  <void property="indirizzo">
+   <string>VIA TIBURTINA 545/E</string>
+  </void>
+  <void property="latitudine">
+   <float>41.90874</float>
+  </void>
+  <void property="longitudine">
+   <float>12.54278</float>
+  </void>
+  <void property="telefonoPrinciapale">
+   <string>064393404</string>
+  </void>
+  <void property="telefonoSecondario">
+   <string>3343350777</string>
+  </void>
+ </object>
+ <object class="PuntoVendita">
+  <void property="denominazione">
+   <string> GOMARASCA BICICLETTE</string>
+  </void>
+  <void property="email">
+   <string>GOMARASCA.BICICLETTE@GMAIL.COM</string>
+  </void>
+  <void property="flagFisicoOnline">
+   <boolean>true</boolean>
+  </void>
+  <void property="idEsercente">
+   <int>925</int>
+  </void>
+  <void property="idPuntoVendita">
+   <int>6575</int>
+  </void>
+  <void property="telefonoPrinciapale">
+   <string>029528107</string>
+  </void>
+  <void property="urlSito">
+   <string>WWW.GOMARASCABICICLETTE.IT</string>
+  </void>
+ </object>
+ <object class="PuntoVendita">
+  <void property="cap">
+   <int>64026</int>
+  </void>
+  <void property="codProvincia">
+   <string>TE</string>
+  </void>
+  <void property="comune">
+   <string>ROSETO DEGLI ABRUZZI</string>
+  </void>
+  <void property="denominazione">
+   <string> IN BICI DI ARITO ENRICO</string>
+  </void>
+  <void property="email">
+   <string>INFO@INBICIWEB.IT</string>
+  </void>
+  <void property="idEsercente">
+   <int>270</int>
+  </void>
+  <void property="idPuntoVendita">
+   <int>1732</int>
+  </void>
+  <void property="indirizzo">
+   <string>VIA NAZIONALE 410</string>
+  </void>
+  <void property="latitudine">
+   <float>42.66967</float>
+  </void>
+  <void property="longitudine">
+   <float>14.02032</float>
+  </void>
+  <void property="telefonoPrinciapale">
+   <string>0859040691</string>
+  </void>
+  <void property="telefonoSecondario">
+   <string>3455358744</string>
+  </void>
+  <void property="urlSito">
+   <string>WWW.INBICIWEB.IT</string>
+  </void>
+ </object>
+</java>

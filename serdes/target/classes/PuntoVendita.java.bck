@@ -1,0 +1,25 @@
+@SuppressWarnings("unused")
+public class PuntoVendita {
+	private int idPuntoVendita;
+	private String denominazione;
+	private String indirizzo;
+	private int cap;
+	private String comune;
+	private String codProvincia;
+	private String urlSito;
+	private String telefonoPrinciapale;
+	private String telefonoSecondario;
+	private String email;
+	private float latitudine;
+	private float longitudine;
+	private boolean flagFiscoOnline;
+	private int idEsercente;
+	private String ragioneSociale;
+	
+	public PuntoVendita() {	
+	}
+	
+	public int getIDPV() {
+		return idPuntoVendita;
+	}
+}
